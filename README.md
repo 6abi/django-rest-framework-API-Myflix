@@ -61,8 +61,8 @@
 	<table align="left">
 	  <tbody>
 	    	<tr>
-			<th>Comando para subir o servidor localmente </th>
-			<th>$ python manage.py runserver </th>
+			<th align="left">Comando para subir o servidor localmente </th>
+			<th align="left">$ python manage.py runserver </th>
 		</tr>
 	  </tbody>
 	</table>
