@@ -31,6 +31,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'django_filters',
     'myflix',
+    'drf_yasg',
 ]
 
 MIDDLEWARE = [
