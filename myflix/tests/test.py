@@ -2,7 +2,7 @@ from django.test import TestCase
 from myflix.models import  Programa
 
 class ProgramaModelTestCase(TestCase):
-    
+
     def setUp(self):
         self.programa = Programa(
             titulo='Procurando agulha no palheiro',
