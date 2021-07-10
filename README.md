@@ -7,7 +7,7 @@
 
  <!-- Status do projeto -->
  <h2 align="center"> ⁉ Status </h2>
-<h4 align="left"> 
+<h4 align="center"> 
 	 🚧 Teste API MyFlix 🚀 Em contrução...  🚧
 </h4>
 
@@ -36,14 +36,14 @@
 </div>
 
 <!-- Requirements -->
-<div align="left" class='container'>
-	<h2 align="left">👨‍💻 Pré-requisitos </h2>
-	<p align="left">$ pip install -r requirements.txt</p>
+<div align="center" class='container'>
+	<h2 align="center">👨‍💻 Pré-requisitos </h2>
+	<p align="center">$ pip install -r requirements.txt</p>
 	<table>
 	  <tbody>
 	    	<tr>
 			<th>requirements.txt</th>
-			<th align="left"> </th>
+			<th align="center"> </th>
 		</tr>
 	  </tbody>
 	</table>
@@ -52,7 +52,7 @@
 
 <!-- How to execute -->
 <div align="center" class='container'>
-	<h2 align="left">🏃‍♀️ Como Executar este projeto? </h2>
+	<h2 align="center">🏃‍♀️ Como Executar este projeto? </h2>
 	<p align="left"> 1º Tenha o Postman instalado para os testes</p>
 	<p align="left"> 1º Tenha o PostgreSQL instalado</p>
 	<p align="left"> 2º Crie um banco de dados com o nome "myflix"</p>
@@ -66,13 +66,13 @@
 		</tr>
 	  </tbody>
 	</table>
-	<p align="center">Done ! ✅</p>
+	<p align="left">Done ! ✅</p>
 </div>
 
 <!-- Resultados -->
 <!-- Resultado API -->
 <div align="center" class='container'>
-	<h2 align="left"> ⚡ Resultados API ⚡</h2>
+	<h2 align="center"> ⚡ Resultados API ⚡</h2>
 </div>
 
 <!-- Resultados parciais -->
