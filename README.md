@@ -2,8 +2,8 @@
  <!-- Explicação do projeto -->
 <h1 align="center">django-rest-framework-API-MyFlix</h1>
 <h2 align="center"> 🧾 Descrição do Projeto</h2>
-<p align="center"> Desenvolvimento de testes em uma API parecida com a estrutura usada em plataformas de streamers, como Netflix, Amazon, etc... </p>
-<p align="center"> O projeto é desenvolvido em Python no Django rest framework  </p>
+<p align="left"> Desenvolvimento de testes em uma API parecida com a estrutura usada em plataformas de streamers, como Netflix, Amazon, etc... </p>
+<p align="left"> O projeto é desenvolvido em Python no Django rest framework  </p>
 
  <!-- Status do projeto -->
  <h2 align="center"> ⁉ Status </h2>
