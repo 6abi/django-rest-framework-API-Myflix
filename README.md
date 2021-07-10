@@ -78,7 +78,7 @@
 <!-- Resultados parciais -->
 <div align="center" class='result'>
 	<h3 align="center"> ➡ Alguns testes com Postman ⬅</h3>
-	<img alt="#result_postman" title="#result_postman" src="./results_git/result_postman.png" width=1200" height="800"/>
+	<img alt="#result_postman" title="#result_postman" src="./results_git/result_postman.png" width=1200" height="700"/>
 </div>
 															 
 <!-- Resultados parciais -->
@@ -90,5 +90,5 @@
 <!-- Resultados parciais -->
 <div align="center" class='result'>
 	<h3 align="center"> ➡ Documentação da API, formato redoc ⬅</h3>
-	<img alt="#result_redoc" title="#result_redoc" src="./results_git/result_redoc.png" width=1200" height="800"/>
+	<img alt="#result_redoc" title="#result_redoc" src="./results_git/result_redoc.png" width=1200" height="700"/>
 </div>
