@@ -58,7 +58,7 @@
 	<p align="left"> 2º Crie um banco de dados com o nome "myflix"</p>
 	<p align="left"> 3º Altere o arquivo settings.py de acordo com a sua configuração de banco de dados"</p>
 	<p align="left">4º Instale os pré requesitos do arquivo requirements.txt (passo anterior)</p>
-	<table align="left">
+	<table>
 	  <tbody>
 	    	<tr>
 			<th>Comando para subir o servidor localmente </th>
