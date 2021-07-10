@@ -78,7 +78,7 @@
 <!-- Resultados parciais -->
 <div align="center" class='result'>
 	<h3 align="center"> ➡ Alguns testes com Postman ⬅</h3>
-	<img alt="#result_postman" title="#result_postman" src="./results_git/result_postman.png" width=1200" height="700"/>
+	<img alt="#result_postman" title="#result_postman" src="./results_git/result_postman.png" width=1200" height="600"/>
 </div>
 															 
 <!-- Resultados parciais -->
