@@ -60,8 +60,8 @@
 	<p align="left">4º Instale os pré requesitos do arquivo requirements.txt (passo anterior)</p>
 	<table>
 	  <tbody>
-	    	<tr>
-			<th>Comando para subir o servidor localmente </th>
+	    	<tr align="left">
+			<th align="left">Comando para subir o servidor localmente </th>
 			<th align="left">$ python manage.py runserver </th>
 		</tr>
 	  </tbody>
