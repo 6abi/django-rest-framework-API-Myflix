@@ -2,8 +2,8 @@
  <!-- Explicação do projeto -->
 <h1 align="center">django-rest-framework-API-MyFlix</h1>
 <h2 align="center"> 🧾 Descrição do Projeto</h2>
-<p align="center"> Desenvolvimento de testes em uma API parecida com a estrutura usada em plataformas de streamers, como Netflix, Amazon, etc... </p>
-<p align="center"> O projeto é desenvolvido em Python no Django rest framework  </p>
+<p align="left"> Desenvolvimento de testes em uma API parecida com a estrutura usada em plataformas de streamers, como Netflix, Amazon, etc... </p>
+<p align="left"> O projeto é desenvolvido em Python no Django rest framework  </p>
 
  <!-- Status do projeto -->
  <h2 align="center"> ⁉ Status </h2>
@@ -53,16 +53,16 @@
 <!-- How to execute -->
 <div align="center" class='container'>
 	<h2 align="center">🏃‍♀️ Como Executar este projeto? </h2>
-	<p align="center"> 1º Tenha o Postman instalado para os testes</p>
-	<p align="center"> 1º Tenha o PostgreSQL instalado</p>
-	<p align="center"> 2º Crie um banco de dados com o nome "myflix"</p>
-	<p align="center"> 3º Altere o arquivo settings.py de acordo com a sua configuração de banco de dados"</p>
-	<p align="center">4º Instale os pré requesitos do arquivo requirements.txt (passo anterior)</p>
+	<p align="left"> 1º Tenha o Postman instalado para os testes</p>
+	<p align="left"> 1º Tenha o PostgreSQL instalado</p>
+	<p align="left"> 2º Crie um banco de dados com o nome "myflix"</p>
+	<p align="left"> 3º Altere o arquivo settings.py de acordo com a sua configuração de banco de dados"</p>
+	<p align="left">4º Instale os pré requesitos do arquivo requirements.txt (passo anterior)</p>
 	<table>
 	  <tbody>
 	    	<tr>
 			<th>Comando para subir o servidor localmente </th>
-			<th align="center">$ python manage.py runserver </th>
+			<th>$ python manage.py runserver </th>
 		</tr>
 	  </tbody>
 	</table>
