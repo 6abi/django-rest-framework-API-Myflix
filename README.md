@@ -38,12 +38,12 @@
 <!-- Requirements -->
 <div align="center" class='container'>
 	<h2 align="center">👨‍💻 Pré-requisitos </h2>
-	<p align="center">$ pip install -r requirements.txt</p>
+	<p align="left">$ pip install -r requirements.txt</p>
 	<table>
 	  <tbody>
 	    	<tr>
 			<th>requirements.txt</th>
-			<th align="center"> </th>
+			<th align="left"> </th>
 		</tr>
 	  </tbody>
 	</table>
@@ -53,16 +53,16 @@
 <!-- How to execute -->
 <div align="center" class='container'>
 	<h2 align="center">🏃‍♀️ Como Executar este projeto? </h2>
-	<p align="center"> 1º Tenha o Postman instalado para os testes</p>
-	<p align="center"> 1º Tenha o PostgreSQL instalado</p>
-	<p align="center"> 2º Crie um banco de dados com o nome "myflix"</p>
-	<p align="center"> 3º Altere o arquivo settings.py de acordo com a sua configuração de banco de dados"</p>
-	<p align="center">4º Instale os pré requesitos do arquivo requirements.txt (passo anterior)</p>
+	<p align="left"> 1º Tenha o Postman instalado para os testes</p>
+	<p align="left"> 1º Tenha o PostgreSQL instalado</p>
+	<p align="left"> 2º Crie um banco de dados com o nome "myflix"</p>
+	<p align="left"> 3º Altere o arquivo settings.py de acordo com a sua configuração de banco de dados"</p>
+	<p align="left">4º Instale os pré requesitos do arquivo requirements.txt (passo anterior)</p>
 	<table>
 	  <tbody>
 	    	<tr>
 			<th>Comando para subir o servidor localmente </th>
-			<th align="center">$ python manage.py runserver </th>
+			<th align="left">$ python manage.py runserver </th>
 		</tr>
 	  </tbody>
 	</table>
