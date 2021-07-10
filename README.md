@@ -42,7 +42,7 @@
 	<table>
 	  <tbody>
 	    	<tr>
-			<a href = "https://github.com/6abi/django-rest-framework-API-Myflix/blob/master/requirements.txt" align = "center"><th>requirements.txt</th></a>
+			<th><a href = "https://github.com/6abi/django-rest-framework-API-Myflix/blob/master/requirements.txt" align = "center">requirements.txt</a></th>
 			<th align="center"> </th>
 		</tr>
 	  </tbody>
