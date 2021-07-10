@@ -63,6 +63,8 @@
 	    	<tr>
 			<th>Comando para subir o servidor localmente </th>
 			<th>$ python manage.py runserver </th>
+			<th>Comando para subir o ambiente de testes </th>
+			<th>$ python manage.py test </th>
 		</tr>
 	  </tbody>
 	</table>
