@@ -78,17 +78,17 @@
 <!-- Resultados parciais -->
 <div align="center" class='result'>
 	<h3 align="center"> ➡ Alguns testes com Postman ⬅</h3>
-	<img alt="#result_postman" title="#result_postman" src="./results_git/result_postman.png" width=600" height="400"/>
+	<img alt="#result_postman" title="#result_postman" src="./results_git/result_postman.png" width=1200" height="800"/>
 </div>
 															 
 <!-- Resultados parciais -->
 <div align="center" class='result'>
 	<h3 align="center"> ➡ Documentação da API com DRF e Swagger ⬅</h3>
-	<img alt="#result_swagger" title="#result_swagger" src="./results_git/result_swagger.png" width=600" height="400"/>
+	<img alt="#result_swagger" title="#result_swagger" src="./results_git/result_swagger.png" width=1200" height="800"/>
 </div>
 
 <!-- Resultados parciais -->
 <div align="center" class='result'>
 	<h3 align="center"> ➡ Documentação da API, formato redoc ⬅</h3>
-	<img alt="#result_redoc" title="#result_redoc" src="./results_git/result_redoc.png" width=1000" height="700"/>
+	<img alt="#result_redoc" title="#result_redoc" src="./results_git/result_redoc.png" width=1200" height="800"/>
 </div>
