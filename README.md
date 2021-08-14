@@ -96,3 +96,5 @@
 	<h3 align="center"> ➡ Documentação da API, formato redoc ⬅</h3>
 	<img alt="#result_redoc" title="#result_redoc" src="./results_git/result_redoc.png" width=1200" height="500"/>
 </div>
+
+														    
