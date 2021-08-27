@@ -1,4 +1,4 @@
-# 
+
  <!-- Explicação do projeto -->
 <h1 align="center">django-rest-framework-API-MyFlix</h1>
 <h2 align="center"> 🧾 Descrição do Projeto</h2>
